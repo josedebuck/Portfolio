@@ -30,7 +30,7 @@ function Hero() {
             </p>
           </HeroLeft>
           <HeroRight>
-          <Image src="/portfolio.jpg" alt="Imagen de mi" />
+          <Image src="/portfolio1.jpg" alt="Imagen de mi" />
           </HeroRight>
         </HeroWrapper>
         <ScrollDown to="projects">

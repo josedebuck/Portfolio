@@ -1,36 +1,41 @@
 // --------------------------------------- Project List
+import SantaFood from "../Assets/SantaFoodDEMO.jpg"
+import SegurosGenerales from "../Assets/SegurosGeneralesDEMO.jpg"
+import ComGamer from "../Assets/ComGamerDEMO.jpg"
+import Travel from "../Assets/TravelDEMO.jpg"
+
 export const ProjectList = [
     {
-      img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/project_1.png",
-      title: "Spense",
+      img: SantaFood,
+      title: "SantaFood",
       description: "Codewell challenge, Spense is a landing page for writers.",
-      tech_stack: "Html, Css, Javascript",
+      tech_stack: "React.js, Next.js, TailwindCSS, Prisma, Firebase Auth, MongoDB",
       github_url: "https://your_project_github_link",
       demo_url: "https://your_project_demo_link",
     },
     {
-      img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/project_2.png",
-      title: "Fiber",
+      img: SegurosGenerales,
+      title: "Seguros Generales",
       description:
-        "An online portfolio generator. Great to practice flex/grid layouts, absolute positioning and sliders.",
+        "Website dedicated to the sale of policies and general insurance.",
       tech_stack: "Html, Css, Javascript",
       github_url: "https://your_project_github_link",
       demo_url: "https://your_project_demo_link",
     },
     {
-      img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/portfolio.png",
-      title: "Portfolio",
-      description: "Ofcourse i made my own personal portfolio website.",
-      tech_stack: "Reactjs, Css",
+      img: ComGamer,
+      title: "ComGamer",
+      description: "Store for the sale of computer supplies",
+      tech_stack: "Html, CSS, Javascript",
       github_url: "https://your_project_github_link",
       demo_url: "https://your_project_demo_link/",
     },
     {
-      img: "https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/project_3.png",
-      title: "Ecommerce website",
+      img: Travel,
+      title: "Travel Website",
       description:
-        "Created simple ecommerce website using reactjs and react-use-cart plugin.",
-      tech_stack: "Reactjs, Css",
+        "Created simple travel website",
+      tech_stack: "Html, Css, Javascript",
       github_url: "https://your_project_github_link",
       demo_url: "https://your_project_demo_link",
     },

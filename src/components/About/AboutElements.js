@@ -8,6 +8,14 @@ export const Image = styled.img`
   max-width: 120px;
   margin: 0 auto;
   margin-bottom: 1rem;
+  border-radius: 50%;
+  overflow: hidden;
+  cursor: pointer;
+  transition: 400ms;
+  &:hover {
+    transform: scale(1.1);
+    box-shadow: 0px 0px 12px 0px rgba(0, 0, 0, 0.5);
+  }
 `;
 
 export const Technologies = styled.div`

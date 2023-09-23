@@ -15,11 +15,10 @@ function About() {
         <div className="SectionTitle">About Me</div>
         <div className="BigCard">
           <Image
-            src="https://raw.githubusercontent.com/gurupawar/website/main/src/Assets/man-svgrepo-com.svg"
-            alt="man-svgrepo"
+            src="/portfolio1.jpg" alt="Imagen de mi"
           />
           <div className="AboutBio">
-            Hello! My name is <strong>Your Name</strong> Lorem Ipsum is simply
+            Hello! My name is <strong>Jose Debuck</strong> Lorem Ipsum is simply
             dummy text of the printing and typesetting industry. Lorem Ipsum has
             been the industry's standard dummy text ever since the 1500s, when
             an unknown printer took a galley of type and scrambled it to make a
