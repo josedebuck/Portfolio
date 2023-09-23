@@ -10,8 +10,8 @@ export const ProjectList = [
       title: "SantaFood",
       description: "Codewell challenge, Spense is a landing page for writers.",
       tech_stack: "React.js, Next.js, TailwindCSS, Prisma, Firebase Auth, MongoDB",
-      github_url: "https://your_project_github_link",
-      demo_url: "https://your_project_demo_link",
+      github_url: "https://github.com/josedebuck/Santa-Food",
+      demo_url: "https://santa-food-dfmu.vercel.app/",
     },
     {
       img: SegurosGenerales,
@@ -19,25 +19,25 @@ export const ProjectList = [
       description:
         "Website dedicated to the sale of policies and general insurance.",
       tech_stack: "Html, Css, Javascript",
-      github_url: "https://your_project_github_link",
-      demo_url: "https://your_project_demo_link",
+      github_url: "https://github.com/josedebuck/Seguros-Generales",
+      demo_url: "landingpageseguros-teal.vercel.app",
     },
     {
       img: ComGamer,
       title: "ComGamer",
       description: "Store for the sale of computer supplies",
       tech_stack: "Html, CSS, Javascript",
-      github_url: "https://your_project_github_link",
-      demo_url: "https://your_project_demo_link/",
+      github_url: "https://github.com/josedebuck/ComGamer",
+      demo_url: "integradorjavascript.vercel.app",
     },
     {
       img: Travel,
-      title: "Travel Website",
+      title: "DescubreElMundo.net",
       description:
         "Created simple travel website",
       tech_stack: "Html, Css, Javascript",
-      github_url: "https://your_project_github_link",
-      demo_url: "https://your_project_demo_link",
+      github_url: "https://github.com/josedebuck/DescubreElMundo.net",
+      demo_url: "descubrelmundo.vercel.app",
     },
   ];
   
