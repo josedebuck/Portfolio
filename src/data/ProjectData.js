@@ -20,7 +20,7 @@ export const ProjectList = [
         "Website dedicated to the sale of policies and general insurance.",
       tech_stack: "Html, Css, Javascript",
       github_url: "https://github.com/josedebuck/Seguros-Generales",
-      demo_url: "landingpageseguros-teal.vercel.app",
+      demo_url: "https://landingpageseguros-teal.vercel.app/",
     },
     {
       img: ComGamer,
@@ -28,7 +28,7 @@ export const ProjectList = [
       description: "Store for the sale of computer supplies",
       tech_stack: "Html, CSS, Javascript",
       github_url: "https://github.com/josedebuck/ComGamer",
-      demo_url: "integradorjavascript.vercel.app",
+      demo_url: "https://integradorjavascript.vercel.app/",
     },
     {
       img: Travel,
@@ -37,7 +37,7 @@ export const ProjectList = [
         "Created simple travel website",
       tech_stack: "Html, Css, Javascript",
       github_url: "https://github.com/josedebuck/DescubreElMundo.net",
-      demo_url: "descubrelmundo.vercel.app",
+      demo_url: "https://descubrelmundo.vercel.app/",
     },
   ];
   
