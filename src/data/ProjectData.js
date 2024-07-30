@@ -3,6 +3,7 @@ import SantaFood from "../Assets/SantaFoodDEMO.jpg"
 import SegurosGenerales from "../Assets/SegurosGeneralesDEMO.jpg"
 import ComGamer from "../Assets/ComGamerDEMO.jpg"
 import Travel from "../Assets/TravelDEMO.jpg"
+import Marketing from "../Assets/MarketingDEMO.png"
 
 export const ProjectList = [
     {
@@ -39,6 +40,16 @@ export const ProjectList = [
       github_url: "https://github.com/josedebuck/DescubreElMundo.net",
       demo_url: "https://descubrelmundo.vercel.app/",
     },
+    {
+      img: Marketing,
+      title: "Agencia Impulso Marketing Digital",
+      description:
+        "Created landing page of Agency of Digital Marketing",
+      tech_stack: "Html, Css, Javascript",
+      github_url: "https://github.com/josedebuck/Impulso-Agencia-Marketing",
+      demo_url: "https://www.impulsomarketingdigital.com/",
+    },
+    
   ];
   
   // --------------------------------------- Skills

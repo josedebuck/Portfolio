@@ -23,7 +23,7 @@ function Footer() {
   return (
     <FooterSection>
       <div className="Container">
-        <span>
+        <span className="footer-span">
           Coded with 💙 by{" "}
           <a
             href="https://github.com/josedebuck/"
@@ -37,5 +37,6 @@ function Footer() {
     </FooterSection>
   );
 }
+
 
 export default Footer;
